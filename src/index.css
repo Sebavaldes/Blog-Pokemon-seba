@@ -1,13 +1,11 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.fondo {
+    background-image: url('C:\Users\sebav\Desktop\4Geeks\blog-pokemon\public\img\fondo.jpg');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.card-hover {
+    transition: all .25s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-4px) scale(1.01);
 }
