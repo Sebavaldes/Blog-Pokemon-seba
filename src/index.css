@@ -1,5 +1,5 @@
 .fondo {
-    background-image: url('C:\Users\sebav\Desktop\4Geeks\blog-pokemon\public\img\fondo.jpg');
+    background-image: url('../public/img/fondo.jpg');
 }
 
 .card-hover {
